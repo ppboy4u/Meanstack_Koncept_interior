@@ -1,0 +1,36 @@
+#why-livespace{
+    margin-bottom: 30px !important;
+    margin-top: 81px !important;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.col_last{
+    margin-right: 0px !important;
+    clear: right;
+}
+
+.col-xs-2{
+    display: block;
+    position: relative;
+    margin-right: 4%;
+    margin-bottom: 5px;
+    float: left;
+    width: 16.8%;
+    /* padding-left: 0px;
+    padding-right: 0px; */
+}
+
+#button{
+    border-radius: 0px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    background-color: #D99600;
+    padding: 10px 40px;
+}
+
+.caption{
+    text-align: center;
+    font-size: 14px;
+}
