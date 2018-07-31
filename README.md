@@ -26,10 +26,10 @@ session prototype at any given moment.
 Technologies used for making this application and links for the introduction of the respective:
 <br/>
 <br/>
-    1. [MongoDB][https://docs.mongodb.com/manual/tutorial/getting-started/]
+    1. <a href="https://docs.mongodb.com/manual/tutorial/getting-started/">MongoDB
     <br/>
-    2. [Express][https://expressjs.com/en/starter/installing.html]
+    2. <a href="https://expressjs.com/en/starter/installing.html">Express
     <br/>
-    3. [Angular][https://docs.angularjs.org/guide/introduction]
+    3. <a href="https://docs.angularjs.org/guide/introduction">Angular
     <br/>
-    4. [Node][https://expressjs.com/en/starter/installing.html]
+    4. <a href="https://expressjs.com/en/starter/installing.html">Node
