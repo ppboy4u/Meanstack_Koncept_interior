@@ -12,6 +12,7 @@ change between the rendered components, the page does not need to reload and no 
 pages need to be downloaded. All actions with the server happens through Ajax mostly via
 Socket.io.
 <br/>
+<br/>
    User-sessions to keep a user logged in using express sessions saved in remote
 database. This allows me to keep secure sessions without the need to encrypt it as they are not
 stored on the client-side. Express associates a single IP with a session document stored in the
@@ -21,9 +22,14 @@ such as the user&#39;s unique id from the user’s account in the database for q
 needed. JavaScript does this very greatly using prototypes as I can add new fields over the
 session prototype at any given moment.
 <br/>
+<br/>
 Technologies used for making this application and links for the introduction of the respective:
 <br/>
-    1. [MongoDB]: https://docs.mongodb.com/manual/tutorial/getting-started/
-    2. [Express]: https://expressjs.com/en/starter/installing.html
-    3. [Angular]: https://docs.angularjs.org/guide/introduction
-    4. [Node]: https://expressjs.com/en/starter/installing.html
+<br/>
+    1. [MongoDB][https://docs.mongodb.com/manual/tutorial/getting-started/]
+    <br/>
+    2. [Express][https://expressjs.com/en/starter/installing.html]
+    <br/>
+    3. [Angular][https://docs.angularjs.org/guide/introduction]
+    <br/>
+    4. [Node][https://expressjs.com/en/starter/installing.html]
